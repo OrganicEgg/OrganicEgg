@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OrganicEgg
 - 👀 I’m interested in Python and JS
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Typescript
 - 📫 How to reach me kllopez3397@gmail.com
 
 <!---
