@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OrganicEgg
-- 👀 I’m interested in Python and JS
+- 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me kllopez3397@gmail.com
 
